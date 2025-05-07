@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mako-nutty!
-- 👀 I’m interested in data science, AI development, and machine learning algorithms.
+- 👀 I’m interested in data science, AI development, and applications of AI in policy and research.
 - 🌱 I’m currently learning data science, Python, Machine Learning, and AI tools.
-- 💞️ I’m looking to collaborate on any projects that involve data analysis and AI.
+- 💞️ I’m looking to collaborate on any projects that involve data analysis and AI, especially those in policy research.
 - 📫 How to reach me: Check me out on LinkedIn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like peanuts and almonds, but not many other nuts. Hazelnuts are fine.
